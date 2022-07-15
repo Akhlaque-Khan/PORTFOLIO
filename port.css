@@ -1,0 +1,38 @@
+ul{
+    display:flex;
+    flex-direction: row;
+}
+ul li{padding: 5px;
+    margin:20px;
+}
+#navbar{
+color: aliceblue;
+    
+}
+body{
+    padding:0;
+    margin:0;
+    background: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+ul{
+    margin-left: 400px;
+    margin-top:-90px ;
+    font-style: italic;
+    font-size: larger;
+}
+.nav{
+    color: black;
+    border: 3px solid white;
+    background-color: aliceblue;
+    border-radius: 15px;
+    width: 80px;
+    text-align: center}
+.skill{
+    margin-top: -470px;
+    margin-left: 400px;
+    color: blanchedalmond;
+    font-size: larger;
+    font-style: italic;
+}
